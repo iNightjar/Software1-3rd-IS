@@ -5,7 +5,6 @@ Tasks Sulutions : <br/>
 # 1- CV Templete Using HTML CSS
 ![HTML Page](CVTempleteUsingHTMLCSS/cvTemplete1.png)
 ![HTML Page](CVTempleteUsingHTMLCSS/cvTemplete2.png)
-
 <br/>
 <br/>
 # 2- FlexBox
