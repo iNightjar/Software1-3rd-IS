@@ -4,8 +4,8 @@
 
 #### `CV Template Using HTML CSS`
 
-<img src="CVTempleteUsingHTMLCSS/1.png" alt="ScreenShot" width="200"/>
-<img src="CVTempleteUsingHTMLCSS/2.png" alt="ScreenShot" width="200"/>
+<img src="CVTempleteUsingHTMLCSS/cvTemplete1.png" alt="ScreenShot" width="200"/>
+<img src="CVTempleteUsingHTMLCSS/cvTemplete2.png" alt="ScreenShot" width="200"/>
 
 <br/>
 
